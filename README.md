@@ -99,7 +99,7 @@ const guilherme = {
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinelis25lk&layout=compact&hide_border=true&theme=github_dark"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinelis25lk&layout=compact&hide_border=true&theme=github_dark&hide=python,cpp&langs_count=5"
   />
 </p>
 
