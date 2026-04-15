@@ -49,7 +49,7 @@
   <li><b>Perfil:</b> Desenvolvedor <b>Backend Júnior</b> em formação, com foco em <b>Java e Spring Boot</b>.</li>
   <li><b>Formação:</b> Estudante de <b>Ciência da Computação</b>.</li>
   <li><b>Objetivo:</b> Conquistar minha <b>primeira oportunidade</b> como estagiário ou desenvolvedor backend.</li>
-  <li><b>Atuação:</b> Desenvolvimento de <b>APIs REST</b>, persistência de dados e arquitetura backend.</li>
+  <li><b>Atuação:</b> Desenvolvimento de APIs REST com foco em <b>regras de negócio, modelagem de domínio e organização de código</b>.</li>
   <li><b>Práticas:</b> Código limpo, testes, versionamento e aprendizado contínuo.</li>
   <li><b>Local:</b> Teresina, Piauí — <b>aberto a remoto</b>.</li>
 </ul>
@@ -78,17 +78,39 @@ const guilherme = {
 
 <ul>
   <li>
-    <b>🍝 LasanhaSpec</b><br/>
-    Projeto backend com foco em <b>arquitetura, APIs REST, Spring Boot</b> e boas práticas de desenvolvimento.
+    <b>🍝 LasanhaSpec — Sistema de análise de problemas crônicos automotivos</b><br/>
+    
+    <b>Descrição:</b> API backend desenvolvida com foco em organização de dados técnicos automotivos, permitindo análise de falhas recorrentes por modelo de veículo.<br/>
+    
+    <b>Destaques técnicos:</b>
+    <ul>
+      <li>Arquitetura em camadas (Controller → Service → Repository)</li>
+      <li>Modelagem de domínio com entidades complexas (Vehicle, ChronicIssue, etc)</li>
+      <li>Cálculo de métricas como <b>reliability score</b> e <b>taxa de falhas críticas</b></li>
+      <li>Uso de <b>Java + Spring Boot + JPA/Hibernate</b></li>
+      <li>Boas práticas: DTOs, separação de responsabilidades e tratamento de exceções</li>
+    </ul>
+
+    <b>Objetivo:</b> Evoluir como backend developer trabalhando com regras de negócio reais e modelagem consistente.
   </li>
+
+  <br/>
+
   <li>
-   <b>🎓 Avanti Bootcamp</b><br/>
-     Projetos e desafios desenvolvidos durante o bootcamp, com foco em <b>JavaScript no backend (Node.js/Express), construção de APIs REST e interfaces com React</b>.
-</li>
+    <b>🎓 Avanti Bootcamp — APIs e aplicações fullstack</b><br/>
+    
+    <b>Descrição:</b> Conjunto de projetos desenvolvidos durante o bootcamp, com foco em construção de APIs e integração com frontend.<br/>
+    
+    <b>Destaques técnicos:</b>
+    <ul>
+      <li>Criação de APIs REST com <b>Node.js + Express</b></li>
+      <li>Integração com frontend usando <b>React</b></li>
+      <li>Manipulação de dados, rotas e consumo de APIs</li>
+      <li>Organização de código e primeiros conceitos de arquitetura</li>
+    </ul>
 
-</ul>
-
-<hr/>
+    <b>Objetivo:</b> Consolidar fundamentos de desenvolvimento web e integração entre camadas.
+  </li>
 
 <h2>📊 Visão geral do GitHub</h2>
 
