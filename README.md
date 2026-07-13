@@ -145,6 +145,24 @@ const guilherme = {
 
 <hr/>
 
+<hr/>
+
+<h2>☁️ Certificações</h2>
+
+<p align="center">
+  <a href="LINK_DA_CREDLY">
+    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+AWS Academy Graduate – Cloud Foundations<br>
+Emitido pela Amazon Web Services (AWS)
+</p>
+
+
+
+
 <h2>🌍 Em busca de oportunidade</h2>
 
 <pre>
